@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello! I am Caleb also know as AnonymouslyFast.
 
-<!--
-**AnonymouslyFast/AnonymouslyFast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me** <br>
+  -> I am 16 years old <br>
+   -> I know 5 programming languages<br>
+   -> My first programming language is Java<br>
+   -> I started my programming journey when i was 13 doing Minecraft Servers in a Minecraft markup language called [Skript](https://github.com/SkriptLang/Skript)
 
-Here are some ideas to get you started:
+**My Projects** <br>
+Right now I am currently making a game called EcoZero with other developers. We have a group, you can call it a game stuido even though we don't have a published game yet. Our game studio is called EcoProjects and on Github our org is EcoStudios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Contact me!** <br>
+✉️fastskating12@gmail.com
