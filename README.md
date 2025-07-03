@@ -7,7 +7,7 @@ Hello! I am Caleb also know as AnonymouslyFast.
    -> I started my programming journey when i was 13 doing Minecraft Servers in a Minecraft programming language called [Skript](https://github.com/SkriptLang/Skript)
 
 **My Projects** <br>
-Right now I am currently making a game called EcoZero with other developers. We have a group, you can call it a game stuido even though we don't have a published game yet. Our game studio is called EcoProjects and on Github our org is EcoStudios.
+Right now I am working on varius projects that will lead to me learning more! Some include making a game in Unity with a few people, making Java plugins to further expand my knowlage with Java, and a freelance developer working for more than one person.
 
 
 **Contact me!** <br>
