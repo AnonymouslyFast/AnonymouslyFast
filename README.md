@@ -11,4 +11,4 @@ Right now I am working on various projects that will lead to me learning more! S
 
 
 **Contact me!** <br>
-✉️fastskating12@gmail.com
+✉️ fastskating12@gmail.com
