@@ -12,3 +12,5 @@ Right now I am working on various projects that will lead to me learning more! S
 
 **Contact me!** <br>
 ✉️ fastskating12@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymouslyfast)](https://github.com/anuraghazra/github-readme-stats)
